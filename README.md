@@ -1,4 +1,5 @@
 # Assignment Four
+**Author: Rana Abdellatif**
 ## Purpose
 The purpose of this assignment is to leverage Google’s analytics policies to gather information about the requests being sent in by users.
 
