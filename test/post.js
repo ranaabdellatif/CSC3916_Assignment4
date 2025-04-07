@@ -10,8 +10,8 @@ chai.use(chaiHttp);
 
 
 let login_details = {
-    'username': 'email@email.com',
-    'password': '123@abc'
+    'username': 'username',
+    'password': 'password'
 }
 
 //Our parent block
