@@ -5,7 +5,8 @@ const dbURI     =  process.env.DB_URL;
 
 const options = {
 	  reconnectTries: Number.MAX_VALUE,
-	  poolSize: 10
+	  poolSize: 10,
+	  dbName: "test"
 	};
 
 mongoose
