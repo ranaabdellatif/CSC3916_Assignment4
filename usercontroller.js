@@ -17,8 +17,7 @@ exports.findAllUsers =
 			});
 	};
 	
-exports.signUp = 
-	( req , res ) => 
+exports.signUp = async( req , res ) => 
 	{
 		// ensure all credentials are entered
 		if ( !req.body.name || !req.body.username || !req.body.password ) 
@@ -71,8 +70,7 @@ exports.signUp =
 			});
 	};
 	
-exports.signIn = 
-	( req , res ) =>
+exports.signIn = async ( req , res ) =>
 	{
 		if ( !req.body.username || !req.body.password ) 
 		{

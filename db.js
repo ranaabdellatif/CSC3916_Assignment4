@@ -4,7 +4,6 @@ const mongoose  =  require( "mongoose" );
 const dbURI     =  process.env.DB_URL;
 
 const options = {
-	  poolSize: 10,
 	  dbName: "test"
 	};
 
