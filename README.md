@@ -1,7 +1,10 @@
 # Assignment Four
 **Author: Rana Abdellatif**
 
-**Environment Name: abdellatif_hw4**
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/41313426-96ea2105-380e-4a8a-8a46-e015f608bc16?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D41313426-96ea2105-380e-4a8a-8a46-e015f608bc16%26entityType%3Dcollection%26workspaceId%3D117894c0-5ee8-4657-84a7-a74aa363e899)
+
+**Collection: CSCI3916_HW4_Redo
+Environment: abdellatif_hw4**
 
 ## Purpose
 The purpose of this assignment is to leverage Google’s analytics policies to gather information about the requests being sent in by users.
@@ -10,4 +13,3 @@ Using the information already entered to MongoDB for the previous assignment, yo
 
 Leverage the Async.js library or mongo $lookup aggregation capability to join the entities.
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/41313426-020b19b5-b796-486b-8bf1-68e70509376a?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D41313426-020b19b5-b796-486b-8bf1-68e70509376a%26entityType%3Dcollection%26workspaceId%3D117894c0-5ee8-4657-84a7-a74aa363e899)
